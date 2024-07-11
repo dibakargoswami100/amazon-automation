@@ -3,6 +3,10 @@
 
 This project, **amazon-automation**, is designed to automate the process of scraping product information from Amazon using Python, Selenium, Pandas, and BeautifulSoup (BS4). The project aims to collect and analyze data from Amazon search results for a specified query.
 
+
+![WhatsApp Image 2024-07-11 at 20 06 56_56afb13d](https://github.com/dibakargoswami100/amazon-automation/assets/160622594/9907b6ed-aa49-41cc-8e36-a31d0d969deb)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
