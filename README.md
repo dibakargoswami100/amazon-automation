@@ -1,4 +1,3 @@
- Here's a comprehensive README file for your GitHub project, "amazon-automation," which uses Python, Selenium, Pandas, and BeautifulSoup (BS4):
 # Amazon Automation
 
 This project, **amazon-automation**, is designed to automate the process of scraping product information from Amazon using Python, Selenium, Pandas, and BeautifulSoup (BS4). The project aims to collect and analyze data from Amazon search results for a specified query.
